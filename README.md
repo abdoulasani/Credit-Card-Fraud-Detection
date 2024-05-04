@@ -2,7 +2,6 @@
 
 # BY ABDOULAHI SANI ADAMOU , ROLL NUMBER 2k20/CO/118 
 
-# Project partners: Samir Kalil Mohammad (2k20/CO/399), Yasmin Abdul Gafar (2K20/CO/504).
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src='./images/Me.jpg' alt='Abdoulahi Sani Adamou' height='250' width='250'/>

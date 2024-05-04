@@ -71,3 +71,14 @@ Feature `Class` is the response variable and it takes value 1 in case of fraud a
 6) Further Enhancements.
   
 7) Acknowledgement and References.
+
+
+### Contact  me:
+
+linkedin: https://www.linkedin.com/in/ibnh/
+
+Facebook: https://www.facebook.com/adamsibnhajia
+
+
+
+Copyright © 2024, ABDOULAHI SANI ADAMOU. All Rights Reserved
